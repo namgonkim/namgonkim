@@ -1,8 +1,8 @@
 ### 안녕하세요. 주니어 개발자 김남곤입니다. 👋
-
+<!--
 [저를 소개합니다](https://namgonkim.notion.site/47c4c116f03e453ab83a1cfb3a2c2b0c)
 
-<!--
+
 .
 **namgonkim/namgonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
