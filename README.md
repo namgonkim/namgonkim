@@ -1,4 +1,7 @@
-### 안녕하세요. 주니어 개발자 김남곤입니다. 👋
+### 클라우드 DevOps를 좋아하는 자바 백엔드 개발자 김남곤입니다 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgonkim)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [저를 소개합니다](https://namgonkim.notion.site/47c4c116f03e453ab83a1cfb3a2c2b0c)
 .
